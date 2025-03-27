@@ -29,8 +29,10 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
+		"@sveltejs/adapter-netlify": "^5.0.0",
 		"@sveltejs/adapter-static": "^3.0.8",
 		"d3": "^7.9.0",
-		"layercake": "^8.4.2"
+		"layercake": "^8.4.2",
+		"wrangler": "^4.5.0"
 	}
 }
